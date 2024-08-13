@@ -204,6 +204,67 @@ nav ul li a{
     cursor: pointer;
 
 }
+.portfolio{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(81, 114, 112);
+}
+.portfolio h1{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    font-size: 70px;
+    font-family: cursive;
 
+}
+.portfolio h3{
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
+.navbtn2{
+    padding-left: 32%;
+    padding-top: 5%;
+}
+.a{
+    border: 3px solid;
+    padding: 12px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+
+}
+.b{
+    border: 3px solid;
+    color: white;
+    font-weight: 600;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 12px;
+
+}
+.c{
+    border: 3px solid;
+    color: white;
+    font-weight: 600;
+    margin-left: 20px;
+    padding: 12px;
+    border-radius: 5px;
+}
+.d{
+    border: 3px solid;
+    color: white;
+    font-weight: 600;
+    padding: 12px;
+    margin-left: 20px;
+    border-radius: 5px;
+
+}
+.image1234{
+        display: flex;
+        justify-content: center;
+}
 
     
